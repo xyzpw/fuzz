@@ -1,4 +1,10 @@
 # fuzz
 ## usage
-chmod +x fuzz.py <br/>
+Add execution permission
+```sh
+chmod +x fuzz.py
+```
+Execute script
+```sh
 ./fuzz.py
+```
