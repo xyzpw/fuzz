@@ -1,5 +1,7 @@
 index.css
 stylesheet.css
+animate.css
+animate.min.css
 main.css
 custom.css
 common.css
