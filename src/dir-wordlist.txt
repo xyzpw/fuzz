@@ -82,8 +82,11 @@ surveys
 reward
 rewards
 static
+static/bundles
 static/home
 Static/Home
+bundles
+data
 schemas
 cgi-bin
 cgi-bin/luci
@@ -124,3 +127,14 @@ lock
 messages
 login
 register
+publicapi
+query
+logging
+qp
+qp/batch_fetch_web
+client_error
+*__a=1
+xhtml
+default
+local
+*

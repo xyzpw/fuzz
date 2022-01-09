@@ -27,3 +27,5 @@ adadd.js
 adadd.min.js
 adadd1.js
 adadd1.min.js
+bootstrap.min.js
+bootstrap.js

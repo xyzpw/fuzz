@@ -16,3 +16,4 @@ sitemapindex.xml
 sitemap.gz
 schemas/sitemap/sitemap.xml
 sitemap/base.xml
+data/manifest.json
