@@ -1,0 +1,12 @@
+img
+images
+xxx
+vid
+videos
+admin
+cpanel
+www
+main
+api
+data
+etl

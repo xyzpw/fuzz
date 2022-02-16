@@ -83,6 +83,7 @@ surveys
 reward
 rewards
 static
+lstatic
 static/bundles
 static/home
 Static/Home
@@ -162,4 +163,7 @@ external
 view
 core
 emoji
+crm
+webPush
+crm/webPush
 *
