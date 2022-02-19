@@ -20,3 +20,4 @@ sitemap/base.xml
 data/manifest.json
 webPush/manifest
 crm/webPush/manifest
+_ssgManifest.js
