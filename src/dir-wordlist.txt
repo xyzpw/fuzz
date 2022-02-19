@@ -166,4 +166,5 @@ emoji
 crm
 webPush
 crm/webPush
+_next
 *
