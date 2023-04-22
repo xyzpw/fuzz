@@ -62,3 +62,5 @@ gg
 xxx
 avatar
 footer-logo
+bg-content
+mask
