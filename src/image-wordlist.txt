@@ -64,3 +64,4 @@ avatar
 footer-logo
 bg-content
 mask
+misc
